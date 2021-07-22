@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![128px-Typescript_logo_2020.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png)
+![128px-Typescript_logo_2020.svg](http://cdn.mjava.top/blog/Q9eIQ7128px-Typescript_logo_2020.svg.png)
 
 # TypeScript
 
