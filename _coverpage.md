@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![TypeScript Logo](http://cdn.mjava.top/blog/0bGQMl480px-Typescript_logo_2020.svg.png)
+![128px-Typescript_logo_2020.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/128px-Typescript_logo_2020.svg.png)
 
 # TypeScript
 
@@ -10,3 +10,4 @@
 
 [GitHub](https://github.com/greycodee/ts-wiki)
 [Get Started](doc/quick-start)
+
