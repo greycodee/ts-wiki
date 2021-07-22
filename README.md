@@ -1,2 +1,1 @@
-# ts-wiki
-TypeScript 学习笔记
+# TypeScript 学习笔记

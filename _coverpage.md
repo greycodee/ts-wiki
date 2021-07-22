@@ -9,5 +9,5 @@
 - 后端自学 TypeScript 的学习笔记
 
 [GitHub](https://github.com/greycodee/ts-wiki)
-[Get Started](doc/quick-start)
+[Get Started](docs/quick-start)
 
